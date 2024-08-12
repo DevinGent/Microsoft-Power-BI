@@ -2,7 +2,7 @@
 
 This report covers sales for a chain of supermarkets in Myanmar, covering three locations, from January to March of 2019.
 
-![Report JPG](https://github.com/DevinGent/Microsoft-Power-BI/blob/main/Supermarket%20Sales/Sample.jpg)
+![Report JPG](Sample.jpg)
 
 ## Insights
 
